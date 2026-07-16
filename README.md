@@ -18,6 +18,7 @@ A collection of all the programs I practiced on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -27,4 +28,12 @@ A collection of all the programs I practiced on Leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
