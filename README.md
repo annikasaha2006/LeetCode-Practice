@@ -7,6 +7,7 @@ A collection of all the programs I practiced on Leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
