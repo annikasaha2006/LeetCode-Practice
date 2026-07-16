@@ -13,4 +13,12 @@ A collection of all the programs I practiced on Leetcode
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
