@@ -6,6 +6,7 @@ A collection of all the programs I practiced on Leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/annikasaha2006/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
